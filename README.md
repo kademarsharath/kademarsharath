@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sharath Kumar
 
-I'm a Data Engineer passionate about building scalable data platforms, robust pipelines, and reliable analytics systems. I enjoy working at the intersection of data engineering, cloud infrastructure, and analytics engineering.
+I'm a Staff Data Engineer and Data Scientist with a unique combination of skills, passionate about building scalable data platforms, robust pipelines, and reliable analytics and ML systems. I enjoy working at the intersection of data engineering, cloud infrastructure, and analytics engineering.
 
 ---
 
@@ -12,6 +12,22 @@ I'm a Data Engineer passionate about building scalable data platforms, robust pi
 * 🧪 Implement **CI/CD pipelines for data workflows**, ensuring reliability and version control
 * 🛠️ Troubleshoot and optimize **pipeline performance and data quality issues**
 * ☁️ Work with **cloud-based data ecosystems** to enable scalable solutions
+* ☁️ Work with **MLOps systems** to enable scalable prediction and deployment
+
+---
+
+### 🤝 Cross-Functional Collaboration
+
+* 👩‍🔬 Partner with **Data Scientists** to productionize machine learning models and ensure reliable data pipelines for training and inference
+* 📈 Work closely with **Marketing Operations teams** to enable data-driven decision making and campaign performance tracking
+* 🎯 Collaborate with **Campaign Managers** to deliver timely, accurate audience and performance data for optimization
+
+---
+
+### 🏆 Key Achievements
+
+* 🚀 Successfully implemented a **lead scoring model using XGBoost (XGB)** to prioritize high-value prospects and improve conversion efficiency
+* ⚡ Built **real-time data streaming pipelines using Kafka**, enabling near real-time analytics and faster business insights
 
 ---
 
@@ -28,6 +44,8 @@ I'm a Data Engineer passionate about building scalable data platforms, robust pi
 
 * **Languages:** Python, SQL
 * **Data Processing:** Apache Spark, Databricks
+* **Streaming:** Kafka
+* **Machine Learning (Collaboration):** XGBoost
 * **Data Modeling:** dbt (learning & experimenting)
 * **Orchestration:** Airflow
 * **Cloud & DevOps:** CI/CD pipelines, GitHub Actions
@@ -49,8 +67,9 @@ I'm a Data Engineer passionate about building scalable data platforms, robust pi
 I'm open to collaborating on:
 
 * Data engineering projects
-* Open-source tools in the data ecosystem
+* Real-time data streaming and analytics use cases
 * Analytics engineering / dbt-based workflows
+* Cross-functional data initiatives involving ML and marketing analytics
 
 ---
 
