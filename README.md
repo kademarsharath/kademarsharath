@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sharath Kumar
 
-I'm a Staff Data Engineer and Data Scientist with a unique combination of skills, passionate about building scalable data platforms, robust pipelines, and reliable analytics and ML systems. I enjoy working at the intersection of data engineering, cloud infrastructure, and analytics engineering.
+I'm a Staff Data Engineer and Data Scientist with a unique combination of skills, passionate about building scalable data platforms, robust pipelines, and reliable analytics and ML systems. I enjoy working at the intersection of data engineering, data science/AI, cloud infrastructure, and analytics engineering.
 
 ---
 
@@ -76,13 +76,13 @@ I'm open to collaborating on:
 ### 📫 How to Reach Me
 
 * GitHub: https://github.com/kademarsharath
-* LinkedIn: *(Add your link here)*
+* LinkedIn: https://www.linkedin.com/in/sharath-kumar-k-02000824
 
 ---
 
 ### ⚡ Fun Fact
 
-I enjoy breaking complex data problems into simple, scalable solutions—and constantly learning better ways to do it.
+I enjoy breaking complex data problems into simple, scalable solutions—and constantly learning better ways to do it. I'm also an avid hiker living in California!
 
 ---
 
