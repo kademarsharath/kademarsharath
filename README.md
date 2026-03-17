@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sharath Kumar
+## Hi there 👋 I'm Sharath Kumar K
 
 I'm a Staff Data Engineer and Data Scientist with a unique combination of skills, passionate about building scalable data platforms, robust pipelines, and reliable analytics and ML systems. I enjoy working at the intersection of data engineering, data science/AI, cloud infrastructure, and analytics engineering.
 
