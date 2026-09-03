@@ -1,13 +1,14 @@
 ## Hi there 👋 I'm Sharath Kumar K
 
-I'm a Staff Data Engineer and Data Scientist with a unique combination of skills, passionate about building scalable data platforms, robust pipelines, and reliable analytics and ML systems. I enjoy working at the intersection of data engineering, data science/AI, cloud infrastructure, and analytics engineering.
+I'm a passionate Data Engineer and Data Scientist with a unique combination of skills, passionate about building scalable data platforms, robust pipelines, and reliable analytics and ML systems. I enjoy working at the intersection of data engineering, data science/AI, cloud infrastructure, and analytics engineering.
 
 ---
 
 ### 🚀 What I Do
 
-* 🔭 Build and maintain **end-to-end data pipelines** using modern cloud platforms
-* ⚙️ Develop and deploy **ETL/ELT workflows** with tools like Databricks and Spark
+* 🔭 Build and maintain **end-to-end data pipelines** using modern cloud platforms like snowflake and Databricks
+* 🧪 Data Governance using Delta and GDPR compliance pipeline using Databricks for seamless tracking and deletion of records and access to the Dalake.
+* ⚙️ Develop and deploy **ETL/ELT workflows** with tools like DBT transformation, Databricks declarative and Spark transformations
 * 📊 Design **data models and transformations** for analytics and reporting
 * 🧪 Implement **CI/CD pipelines for data workflows**, ensuring reliability and version control
 * 🛠️ Troubleshoot and optimize **pipeline performance and data quality issues**
@@ -19,7 +20,7 @@ I'm a Staff Data Engineer and Data Scientist with a unique combination of skills
 ### 🤝 Cross-Functional Collaboration
 
 * 👩‍🔬 Partner with **Data Scientists** to productionize machine learning models and ensure reliable data pipelines for training and inference
-* 📈 Work closely with **Marketing Operations teams** to enable data-driven decision making and campaign performance tracking
+* 📈 Work closely with **Product analytics and Marketing Operations teams** to enable data-driven decision making and campaign performance tracking
 * 🎯 Collaborate with **Campaign Managers** to deliver timely, accurate audience and performance data for optimization
 
 ---
@@ -27,6 +28,7 @@ I'm a Staff Data Engineer and Data Scientist with a unique combination of skills
 ### 🏆 Key Achievements
 
 * 🚀 Successfully implemented a **lead scoring model using XGBoost (XGB)** to prioritize high-value prospects and improve conversion efficiency
+* ⚡ Built highly DBT models and redesigned the semantic models using Cortex AI.  
 * ⚡ Built **real-time data streaming pipelines using Kafka**, enabling near real-time analytics and faster business insights
 
 ---
