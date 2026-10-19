@@ -4,7 +4,7 @@ I'm a passionate Data Engineer and Data Scientist with a unique combination of s
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 * 🔭 Build and maintain **end-to-end data pipelines** using modern cloud platforms like snowflake and Databricks
 * 🧪 Data Governance using Delta and GDPR compliance pipeline using Databricks for seamless tracking and deletion of records and access to the Dalake.
@@ -17,7 +17,7 @@ I'm a passionate Data Engineer and Data Scientist with a unique combination of s
 
 ---
 
-### 🤝 Cross-Functional Collaboration
+### Cross-Functional Collaboration
 
 * 👩‍🔬 Partner with **Data Scientists** to productionize machine learning models and ensure reliable data pipelines for training and inference
 * 📈 Work closely with **Product analytics and Marketing Operations teams** to enable data-driven decision making and campaign performance tracking
@@ -25,7 +25,7 @@ I'm a passionate Data Engineer and Data Scientist with a unique combination of s
 
 ---
 
-### 🏆 Key Achievements
+### Key Achievements
 
 * 🚀 Successfully implemented a **lead scoring model using XGBoost (XGB)** to prioritize high-value prospects and improve conversion efficiency
 * ⚡ Built highly DBT models and redesigned the semantic models using Cortex AI.  
@@ -33,7 +33,7 @@ I'm a passionate Data Engineer and Data Scientist with a unique combination of s
 
 ---
 
-### 🧠 What I'm Currently Focused On
+### What I'm Currently Focused On
 
 * 🌱 Strengthening **DataOps & CI/CD practices for data engineering**
 * 🔄 Automating **deployment workflows for data pipelines**
